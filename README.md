@@ -9,7 +9,7 @@ Slackbot tutorial
 npm i
 ```
 ```
-npm start
+npm run start
 ```
 ```
 <sign in and open slack space>
