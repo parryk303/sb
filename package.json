@@ -1,0 +1,25 @@
+{
+  "name": "sb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parryk303/sb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parryk303/sb/issues"
+  },
+  "homepage": "https://github.com/parryk303/sb#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.9.0",
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
